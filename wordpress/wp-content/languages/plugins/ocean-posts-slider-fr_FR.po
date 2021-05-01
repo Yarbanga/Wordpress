@@ -1,0 +1,298 @@
+# Translation of Plugins - Ocean Posts Slider - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - Ocean Posts Slider - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-23 16:01:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Ocean Posts Slider - Development (trunk)\n"
+
+#: ocean-posts-slider.php:343
+msgid "All post"
+msgstr "Tous les articles"
+
+#: ocean-posts-slider.php:342
+msgid "Only First post by categories"
+msgstr "Uniquement le premier article par catégorie"
+
+#: ocean-posts-slider.php:340
+msgid "Limit number of post by category."
+msgstr "Limiter le nombre d’articles par catégorie."
+
+#: ocean-posts-slider.php:339
+msgid "Limit by categories"
+msgstr "Limiter par catégorie"
+
+#: ocean-posts-slider.php:699
+msgctxt "Image Size Control"
+msgid "Custom"
+msgstr "Personnaliser"
+
+#: ocean-posts-slider.php:698
+msgctxt "Image Size Control"
+msgid "Full"
+msgstr "Plein"
+
+#: ocean-posts-slider.php:658
+msgid "Post"
+msgstr "Article"
+
+#: ocean-posts-slider.php:323
+msgid "Select your post type to display in the slider."
+msgstr "Sélectionnez votre type d'article à afficher dans le diaporama."
+
+#: ocean-posts-slider.php:557
+msgid "Enter the slug of your category to include, separate cat by commas."
+msgstr "Saisissez l’identifiant de la catégorie à inclure, séparez les cat. par des virgules."
+
+#: ocean-posts-slider.php:556
+msgid "Include Cat"
+msgstr "Inclure la cat."
+
+#: ocean-posts-slider.php:463
+msgid "Enter your custom image height."
+msgstr "Saisissez la hauteur personnalisée de votre image."
+
+#: ocean-posts-slider.php:462
+msgid "Image Height"
+msgstr "Hauteur de l'image"
+
+#: ocean-posts-slider.php:442
+msgid "Enter your custom image width."
+msgstr "Saisissez la largeur personnalisée de votre image."
+
+#: ocean-posts-slider.php:441
+msgid "Image Width"
+msgstr "Largeur de l’image"
+
+#: ocean-posts-slider.php:403
+msgid "Enter the number of posts to display per slide."
+msgstr "Saisissez le nombre d’articles à afficher par diapositive."
+
+#: ocean-posts-slider.php:402
+msgid "Number Per Slide"
+msgstr "Nombre par diapositive"
+
+#. Author URI of the plugin
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
+
+#. Author of the plugin
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Description of the plugin
+msgid "Display your latest posts in a beautiful slider with different options."
+msgstr "Affichez vos derniers articles dans un superbe diaporama avec différentes options."
+
+#. Plugin URI of the plugin
+msgid "https://oceanwp.org/extension/ocean-posts-slider/"
+msgstr "https://oceanwp.org/extension/ocean-posts-slider/"
+
+#. Plugin Name of the plugin
+msgid "Ocean Posts Slider"
+msgstr "Ocean Posts Slider"
+
+#: ocean-posts-slider.php:716
+msgid "Shortcode"
+msgstr "Code court"
+
+#: ocean-posts-slider.php:625
+msgid "Comment Count"
+msgstr "Compteur de commentaires"
+
+#: ocean-posts-slider.php:624
+msgid "Random"
+msgstr "Aléatoire"
+
+#: ocean-posts-slider.php:623
+msgid "Parent"
+msgstr "Parent"
+
+#: ocean-posts-slider.php:622
+msgid "Modified"
+msgstr "Modifié"
+
+#: ocean-posts-slider.php:621
+msgid "Date"
+msgstr "Date"
+
+#: ocean-posts-slider.php:322 ocean-posts-slider.php:620
+msgid "Post Type"
+msgstr "Type de contenu"
+
+#: ocean-posts-slider.php:619
+msgid "Slug"
+msgstr "Identifiant"
+
+#: ocean-posts-slider.php:618
+msgid "Title"
+msgstr "Titre"
+
+#: ocean-posts-slider.php:617
+msgid "Author"
+msgstr "Auteur"
+
+#: ocean-posts-slider.php:616
+msgid "ID"
+msgstr "ID"
+
+#: ocean-posts-slider.php:615
+msgid "No Order"
+msgstr "Aucun tri"
+
+#: ocean-posts-slider.php:613
+msgid "Sort retrieved posts by parameter."
+msgstr "Trier les articles récupérés par paramètre."
+
+#: ocean-posts-slider.php:612
+msgid "Order By"
+msgstr "Trier par"
+
+#: ocean-posts-slider.php:594
+msgid "Descending Order"
+msgstr "Ordre descendant"
+
+#: ocean-posts-slider.php:593
+msgid "Ascending Order"
+msgstr "Ordre ascendant"
+
+#: ocean-posts-slider.php:591
+msgid "Designates the ascending or descending order."
+msgstr "Désigne l'ordre ascendant ou descendant."
+
+#: ocean-posts-slider.php:590
+msgid "Order"
+msgstr "Trier"
+
+#: ocean-posts-slider.php:574
+msgid "Enter the slug of your category to exclude, separate cat by commas."
+msgstr "Saisissez l’identifiant de la catégorie à exclure, séparez les cat. par des virgules."
+
+#: ocean-posts-slider.php:573
+msgid "Exclude Cat"
+msgstr "Exclure la cat."
+
+#: ocean-posts-slider.php:546
+msgid "Posts"
+msgstr "Articles"
+
+#: ocean-posts-slider.php:527
+msgid "Enter the transition speed of the slides."
+msgstr "Saisissez la vitesse de transition des diapositives."
+
+#: ocean-posts-slider.php:526
+msgid "Speed"
+msgstr "Vitesse"
+
+#: ocean-posts-slider.php:510
+msgid "Add a space between the slider and your content. eg 0 0 20px 0 (top right bottom left)."
+msgstr "Ajoutez un espace entre le diaporama et votre contenu. Par ex : 0 0 20px 0 (supérieure droite inférieure gauche)."
+
+#: ocean-posts-slider.php:509
+msgid "Margin"
+msgstr "Marge"
+
+#: ocean-posts-slider.php:499
+msgid "Slide"
+msgstr "Diapositive"
+
+#: ocean-posts-slider.php:484
+msgid "Enter your custom text for the read more button."
+msgstr "Saisissez votre texte personnalisé pour le bouton Lire la suite."
+
+#: ocean-posts-slider.php:483
+msgid "Read More Text"
+msgstr "Texte lire la suite"
+
+#: ocean-posts-slider.php:424
+msgid "Select the size of your images."
+msgstr "Sélectionnez la taille de vos images."
+
+#: ocean-posts-slider.php:423
+msgid "Size"
+msgstr "Taille"
+
+#: ocean-posts-slider.php:382
+msgid "Enter the number of posts to display."
+msgstr "Saisissez le nombre d’articles à afficher."
+
+#: ocean-posts-slider.php:381
+msgid "Number"
+msgstr "Nombre"
+
+#: ocean-posts-slider.php:364
+msgid "Three Images"
+msgstr "Trois images"
+
+#: ocean-posts-slider.php:363
+msgid "One Image"
+msgstr "Une image"
+
+#: ocean-posts-slider.php:361
+msgid "Select the slider style."
+msgstr "Sélectionner le style de diaporama."
+
+#: ocean-posts-slider.php:360
+msgid "Style"
+msgstr "Style"
+
+#: ocean-posts-slider.php:312
+msgid "General"
+msgstr "Général"
+
+#: ocean-posts-slider.php:300
+msgid "Posts Slider Settings"
+msgstr "Réglages de Posts Slider"
+
+#: ocean-posts-slider.php:225
+msgid "No Items Found In Trash"
+msgstr "Aucun élément trouvé dans la corbeille"
+
+#: ocean-posts-slider.php:224
+msgid "No Items Found"
+msgstr "Aucun élément trouvé"
+
+#: ocean-posts-slider.php:223
+msgid "Search Items"
+msgstr "Rechercher des éléments"
+
+#: ocean-posts-slider.php:222
+msgid "View Item"
+msgstr "Voir l’élément"
+
+#: ocean-posts-slider.php:220
+msgid "Edit Item"
+msgstr "Modifier l’élément"
+
+#: ocean-posts-slider.php:219 ocean-posts-slider.php:221
+msgid "Add New Item"
+msgstr "Ajouter un nouvel élément"
+
+#: ocean-posts-slider.php:218
+msgid "Add New"
+msgstr "Ajouter un nouveau"
+
+#: ocean-posts-slider.php:217
+msgid "Posts Slider Item"
+msgstr "Élément de Posts Slider"
+
+#: ocean-posts-slider.php:216
+msgid "Posts Slider"
+msgstr "Posts Slider"
+
+#: ocean-posts-slider.php:132 ocean-posts-slider.php:141
+msgid "Cheatin&#8217; huh?"
+msgstr "Quelque chose s’est mal passé ?"
+
+#: includes/posts-slider.php:229
+msgid "by"
+msgstr "par"
+
+#: ocean-posts-slider.php:492 includes/posts-slider.php:54
+msgid "Read More"
+msgstr "Lire la suite"

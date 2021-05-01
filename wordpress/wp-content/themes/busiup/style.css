@@ -1,0 +1,20 @@
+/*
+Theme Name: Busiup
+Theme URI: https://themeansar.com/free-themes/busiup/
+Author: themeansar
+Author URI: https://themeansar.com
+Template: consultup
+Description: Busiup WordPress theme ideal for a business or perfect solutions for corporate, consulting, wedding planners, agency, law firms, finance, law travel, recipes, sport/medical shops, startups, online agencies, portfolios, freelancers, E-commerce.  The theme is responsive, WPML, Retina ready, SEO friendly (Live preview : https://demo.themeansar.com/consultup/modern/)
+Version: 1.9
+Tags: two-columns, three-columns, left-sidebar, right-sidebar, translation-ready, custom-background, custom-logo, featured-images, footer-widgets, full-width-template, blog, e-commerce, entertainment
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: busiup
+*/
+
+@media (max-width: 992px) {
+
+.site-title a, .site-title a:hover, .site-description, .site-title a:focus {
+    color: inherit; !important;
+}
+}

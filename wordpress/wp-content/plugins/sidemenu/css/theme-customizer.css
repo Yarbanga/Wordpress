@@ -1,0 +1,5 @@
+#accordion-section-sidemenu > .accordion-section-title:before {
+    content: "\f228";
+    font-family: dashicons;
+    padding: 3px;
+}

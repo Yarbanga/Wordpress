@@ -1,0 +1,848 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: स्लाइडर फैक्टरी प्रीमियम\n"
+"POT-Creation-Date: 2021-03-15 15:44+0530\n"
+"PO-Revision-Date: 2021-03-15 15:44+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/all-sliders.php:5
+msgid "SLIDER LAYOUTS"
+msgstr "स्लाइडर लेआउट"
+
+#: admin/all-sliders.php:10
+msgid "All Slider Shortcode"
+msgstr "सभी स्लाइडर शोर्ट"
+
+#: admin/all-sliders.php:19 admin/all-sliders.php:38 admin/all-sliders.php:57
+#: admin/all-sliders.php:76 admin/all-sliders.php:95 admin/all-sliders.php:114
+#: admin/all-sliders.php:133 admin/all-sliders.php:152
+#: admin/all-sliders.php:172 admin/all-sliders.php:191
+#: admin/all-sliders.php:204 admin/all-sliders.php:217
+msgid "LAYOUT"
+msgstr "लेआउट"
+
+#: admin/all-sliders.php:23 admin/all-sliders.php:42 admin/all-sliders.php:61
+#: admin/all-sliders.php:80 admin/all-sliders.php:99 admin/all-sliders.php:118
+#: admin/all-sliders.php:137 admin/all-sliders.php:156
+#: admin/all-sliders.php:176
+msgid "Info"
+msgstr "जानकारी"
+
+#: admin/all-sliders.php:26 admin/all-sliders.php:45 admin/all-sliders.php:64
+#: admin/all-sliders.php:83 admin/all-sliders.php:102
+#: admin/all-sliders.php:121 admin/all-sliders.php:140
+#: admin/all-sliders.php:159 admin/all-sliders.php:179
+msgid "Demo"
+msgstr "प्रदर्शित"
+
+#: admin/all-sliders.php:29 admin/all-sliders.php:48 admin/all-sliders.php:67
+#: admin/all-sliders.php:86 admin/all-sliders.php:105
+#: admin/all-sliders.php:124 admin/all-sliders.php:143
+#: admin/all-sliders.php:162 admin/all-sliders.php:182
+msgid "Create"
+msgstr "बनाएं"
+
+#: admin/all-sliders.php:195 admin/all-sliders.php:208
+#: admin/all-sliders.php:221
+msgid "More New Layout Coming Soon"
+msgstr "अधिक नया लेआउट जल्द ही आ रहा है"
+
+#: admin/all-sliders.php:233
+msgid "GET PRO"
+msgstr "खरीदें प्रीमियम"
+
+#: admin/all-sliders.php:242
+msgid "FEATURES"
+msgstr "विशेषताएं"
+
+#: admin/all-sliders.php:244
+msgid "Upgrade To Pro Version"
+msgstr "प्रो संस्करण में अपग्रेड करें"
+
+#: admin/all-sliders.php:255
+msgid "Slider Factory Pro"
+msgstr "स्लाइडर फैक्टरी प्रो"
+
+#: admin/all-sliders.php:258
+msgid "Check Pro Demo"
+msgstr "प्रो डेमो देखें"
+
+#: admin/all-sliders.php:268
+msgid "Video Docs"
+msgstr "वीडियो दस्तावेज़"
+
+#: admin/all-sliders.php:271
+msgid "Watch Video Documentation"
+msgstr "देखें वीडियो डॉक्यूमेंटेशन"
+
+#: admin/all-sliders.php:276
+msgid "Read Text Documentation"
+msgstr "पाठ दस्तावेज़ पढ़ें"
+
+#: admin/all-sliders.php:298
+msgid "Slider Shortcodes"
+msgstr "स्लाइडर शॉर्टकोड"
+
+#: admin/all-sliders.php:306 admin/all-sliders.php:362
+msgid "Title"
+msgstr "शीर्षक"
+
+#: admin/all-sliders.php:307 admin/all-sliders.php:363
+msgid "Shortcode"
+msgstr "शॉर्टकोड"
+
+#: admin/all-sliders.php:308 admin/all-sliders.php:364
+msgid "Action"
+msgstr "कार्य"
+
+#: admin/all-sliders.php:340
+msgid "Click To Copy Slider Shortcode"
+msgstr "स्लाइडर शोर्ट कॉपी करने के लिए क्लिक करें"
+
+#: admin/all-sliders.php:340 slider-factory.php:416
+msgid "Copy"
+msgstr "कॉपी"
+
+#: admin/all-sliders.php:341
+msgid "Copied"
+msgstr "कॉपी की गई"
+
+#: admin/all-sliders.php:344
+msgid "Clone Slider"
+msgstr "क्लोन स्लाइडर"
+
+#: admin/all-sliders.php:345
+msgid "Edit Slider"
+msgstr "स्लाइडर को संपादित करें"
+
+#: admin/all-sliders.php:346
+msgid "Delete Slider"
+msgstr "स्लाइडर को हटा दें"
+
+#: admin/all-sliders.php:349
+msgid "Select Slider Shortcode"
+msgstr "स्लाइडर शोर्ट चुनें"
+
+#: admin/all-sliders.php:365
+msgid "Delete Selected Sliders"
+msgstr "चयनित स्लाइडर हटाएं"
+
+#: admin/manage-slider.php:22
+msgid "Creating Slider With Layout"
+msgstr "लेआउट के साथ स्लाइडर बनाना"
+
+#: admin/manage-slider.php:23
+msgid "Save Slider"
+msgstr "स्लाइडर सहेजें"
+
+#: admin/manage-slider.php:39
+msgid "Editing Slider Shortcode"
+msgstr "स्लाइडर शार्टकोड का संपादन"
+
+#: admin/manage-slider.php:39
+msgid "Build With Layout"
+msgstr "लेआउट के साथ बनाएँ"
+
+#: admin/manage-slider.php:40
+msgid "Update Slider"
+msgstr "स्लाइडर को अपडेट करें"
+
+#: admin/manage-slider.php:47
+msgid ""
+"Sorry! There is none of the slider layout or shortcode selected to create or "
+"manage."
+msgstr ""
+"माफ़ करना! बनाने या प्रबंधित करने के लिए स्लाइडर लेआउट या शोर्ट में से कोई भी नहीं है।"
+
+#: admin/settings/1.php:4 admin/settings/2.php:4 admin/settings/3.php:4
+#: admin/settings/4.php:4 admin/settings/5.php:4 admin/settings/6.php:5
+#: admin/settings/7.php:4 admin/settings/8.php:5 admin/settings/9.php:5
+msgid "Width"
+msgstr "चौड़ाई"
+
+#: admin/settings/1.php:6 admin/settings/2.php:6 admin/settings/3.php:6
+#: admin/settings/4.php:6 admin/settings/5.php:6 admin/settings/6.php:7
+#: admin/settings/8.php:7
+msgid ""
+"Define the slider width. You can use any unit you like: percent 0% to 100% "
+"OR pixels 200px/300px/500px etc."
+msgstr ""
+"स्लाइडर की चौड़ाई को परिभाषित करें। आप अपनी पसंद की किसी भी इकाई का उपयोग कर सकते "
+"हैं: प्रतिशत 0% से 100% या पिक्सेल 200px / 300px / 500px आदि।"
+
+#: admin/settings/1.php:11 admin/settings/2.php:11 admin/settings/3.php:11
+#: admin/settings/4.php:11 admin/settings/5.php:11 admin/settings/6.php:12
+#: admin/settings/7.php:11 admin/settings/8.php:12 admin/settings/9.php:13
+msgid "Height"
+msgstr "ऊंचाई"
+
+#: admin/settings/1.php:13 admin/settings/2.php:13 admin/settings/4.php:13
+#: admin/settings/5.php:13 admin/settings/6.php:14 admin/settings/8.php:14
+msgid ""
+"Define the slider height. You can use any unit you like: percent 0% to 100% "
+"OR pixels 200px/300px/500px etc."
+msgstr ""
+"स्लाइडर की ऊंचाई को परिभाषित करें। आप अपनी पसंद की किसी भी इकाई का उपयोग कर सकते "
+"हैं: प्रतिशत 0% से 100% या पिक्सेल 200px / 300px / 500px आदि।"
+
+#: admin/settings/1.php:18 admin/settings/3.php:19 admin/settings/4.php:18
+#: admin/settings/5.php:18 admin/settings/6.php:20 admin/settings/7.php:32
+msgid "Auto Play"
+msgstr "स्वत: प्ले"
+
+#: admin/settings/1.php:21 admin/settings/3.php:22 admin/settings/4.php:21
+#: admin/settings/5.php:21 admin/settings/6.php:23 admin/settings/7.php:35
+#: admin/settings/8.php:23 admin/settings/9.php:23
+msgid "ON"
+msgstr "चालू"
+
+#: admin/settings/1.php:24 admin/settings/3.php:25 admin/settings/4.php:24
+#: admin/settings/5.php:24 admin/settings/6.php:26 admin/settings/7.php:38
+#: admin/settings/8.php:26 admin/settings/9.php:26
+msgid "OFF"
+msgstr "बंद"
+
+#: admin/settings/1.php:26 admin/settings/3.php:27 admin/settings/4.php:26
+#: admin/settings/5.php:26 admin/settings/6.php:28
+msgid "Enable or disable automatic slide show."
+msgstr "स्वचालित स्लाइड शो सक्षम या अक्षम करें।"
+
+#: admin/settings/1.php:31 admin/settings/2.php:18 admin/settings/3.php:32
+#: admin/settings/4.php:31 admin/settings/5.php:31 admin/settings/6.php:34
+#: admin/settings/7.php:45 admin/settings/8.php:34 admin/settings/9.php:34
+msgid "Slide Order By"
+msgstr "स्लाइड क्रम"
+
+#: admin/settings/1.php:34 admin/settings/2.php:21 admin/settings/3.php:35
+#: admin/settings/4.php:34 admin/settings/5.php:34 admin/settings/6.php:37
+#: admin/settings/7.php:48 admin/settings/8.php:37 admin/settings/9.php:37
+msgid "None"
+msgstr "कोई नहीं"
+
+#: admin/settings/1.php:37 admin/settings/2.php:24 admin/settings/3.php:38
+#: admin/settings/4.php:37 admin/settings/5.php:37 admin/settings/6.php:40
+#: admin/settings/7.php:51 admin/settings/8.php:40 admin/settings/9.php:40
+msgid "Slide ID Ascending"
+msgstr "स्लाइड आईडी आरोही"
+
+#: admin/settings/1.php:40 admin/settings/2.php:27 admin/settings/3.php:41
+#: admin/settings/4.php:40 admin/settings/5.php:40 admin/settings/6.php:43
+#: admin/settings/7.php:54 admin/settings/8.php:43 admin/settings/9.php:43
+msgid "Slide ID Descending"
+msgstr "स्लाइड आईडी अवरोही"
+
+#: admin/settings/1.php:42 admin/settings/2.php:29 admin/settings/3.php:44
+#: admin/settings/4.php:42 admin/settings/5.php:42 admin/settings/6.php:45
+#: admin/settings/7.php:56
+msgid "Set slide loading order in slide show."
+msgstr "स्लाइड शो में स्लाइड लोडिंग ऑर्डर सेट करें।"
+
+#: admin/settings/3.php:13
+msgid "pixels"
+msgstr "पिक्सल"
+
+#: admin/settings/3.php:14
+msgid "Define the slider height."
+msgstr "स्लाइडर की ऊंचाई को परिभाषित करें।"
+
+#: admin/settings/7.php:6
+msgid ""
+"Define the slider container width. You can use any unit you like: percent 0% "
+"to 100% OR pixels 200px/300px/500px etc."
+msgstr ""
+"स्लाइडर कंटेनर की चौड़ाई को परिभाषित करें। आप अपनी पसंद की किसी भी इकाई का उपयोग कर "
+"सकते हैं: प्रतिशत 0% से 100% या पिक्सेल 200px / 300px / 500px आदि।"
+
+#: admin/settings/7.php:13
+msgid ""
+"Define the slider container height. You can use any unit you like: percent "
+"0% to 100% OR pixels 200px/300px/500px etc."
+msgstr ""
+"स्लाइडर कंटेनर ऊंचाई को परिभाषित करें। आप अपनी पसंद की किसी भी इकाई का उपयोग कर सकते "
+"हैं: प्रतिशत 0% से 100% या पिक्सेल 200px / 300px / 500px आदि।"
+
+#: admin/settings/7.php:18
+msgid "Slide Circle Size"
+msgstr "स्लाइड शीर्षकस्लाइड सर्कल का आकार"
+
+#: admin/settings/7.php:20
+msgid "Define the slide circle size. (any number)"
+msgstr "स्लाइड सर्कल आकार को परिभाषित करें। (कोई संख्या)"
+
+#: admin/settings/7.php:25
+msgid "Inner Circle Size"
+msgstr "इनर सर्कल आकार"
+
+#: admin/settings/7.php:27
+msgid "Define the inner slide circle size. (any number)"
+msgstr "आंतरिक स्लाइड सर्कल आकार को परिभाषित करें। (कोई संख्या)"
+
+#: admin/settings/7.php:40
+msgid "Enable or disable autoplay feature."
+msgstr "ऑटोप्ले सुविधा को सक्षम या अक्षम करें।"
+
+#: admin/settings/7.php:56 admin/settings/8.php:45 admin/settings/9.php:45
+#: admin/slider-panel.php:50
+msgid "Note"
+msgstr "ध्यान दें"
+
+#: admin/settings/7.php:56
+msgid "Select [None] to leave the order as it was at time of creation."
+msgstr "निर्माण के समय जैसा आदेश था उसे छोड़ने के लिए [कोई नहीं] चुनें।"
+
+#: admin/settings/8.php:20
+msgid "Responsive Slider"
+msgstr "उत्तरदायी स्लाइडर"
+
+#: admin/settings/8.php:28
+msgid ""
+"Enable or disable Responsiveness. Width/Height recalculation on window "
+"resize respective different screen layouts."
+msgstr ""
+"प्रतिक्रिया सक्षम या अक्षम करें। खिड़की पर चौड़ाई / ऊँचाई पुनर्गणना संबंधित विभिन्न स्क्रीन "
+"लेआउट का आकार बदलती है।"
+
+#: admin/settings/8.php:45 admin/settings/9.php:45
+msgid "Set slide loading order in slide show. "
+msgstr "स्लाइड शो में स्लाइड लोडिंग ऑर्डर सेट करें।"
+
+#: admin/settings/8.php:45 admin/settings/9.php:45
+msgid "Select [None] to leave the order as it is above."
+msgstr "जैसा कि ऊपर है ऑर्डर छोड़ने के लिए [कोई नहीं] चुनें।"
+
+#: admin/settings/9.php:7
+msgid ""
+"Define the slider image width. You can use any unit you like: percent 0% to "
+"100% OR pixels 200px/300px/500px etc."
+msgstr ""
+"स्लाइडर छवि चौड़ाई को परिभाषित करें। आप अपनी पसंद की किसी भी इकाई का उपयोग कर सकते "
+"हैं: प्रतिशत 0% से 100% या पिक्सेल 200px / 300px / 500px आदि।"
+
+#: admin/settings/9.php:15
+msgid ""
+"Define the slider image height. You can use any unit you like: percent 0% to "
+"100% OR pixels 200px/300px/500px etc."
+msgstr ""
+"स्लाइडर छवि ऊंचाई को परिभाषित करें। आप अपनी पसंद की किसी भी इकाई का उपयोग कर सकते "
+"हैं: प्रतिशत 0% से 100% या पिक्सेल 200px / 300px / 500px आदि।"
+
+#: admin/settings/9.php:20
+msgid "Auto Play on Load"
+msgstr "लोड पर ऑटो चलाएं"
+
+#: admin/settings/9.php:28
+msgid "Enable or disable automatic slide show on load."
+msgstr "लोड पर स्वचालित स्लाइड शो को सक्षम या अक्षम करें।"
+
+#: admin/slider-panel.php:15
+msgid "Slider Title"
+msgstr "स्लाइड शीर्षक"
+
+#: admin/slider-panel.php:19
+msgid "Type A Name Of The Slider"
+msgstr "स्लाइडर का नाम टाइप करें"
+
+#: admin/slider-panel.php:20
+msgid "Give a name or title to the slider."
+msgstr "स्लाइडर को एक नाम या शीर्षक दें।"
+
+#: admin/slider-panel.php:29
+msgid "Upload Image Slides"
+msgstr "नई छवि स्लाइड जोड़ें"
+
+#: admin/slider-panel.php:35
+msgid "Add New Image Slides"
+msgstr "नई छवि स्लाइड जोड़ें"
+
+#: admin/slider-panel.php:42
+msgid "Remove All Image Slides"
+msgstr "सभी छवि स्लाइड निकालें"
+
+#: admin/slider-panel.php:50
+msgid "Drag and Drop image slides to rearrange their position."
+msgstr "खींचें और ड्रॉप छवि स्लाइड अपनी स्थिति को पुनर्व्यवस्थित करने के लिए।"
+
+#: admin/slider-panel.php:50
+msgid "We recommend to use the same dimension images for better result."
+msgstr "हम बेहतर परिणाम के लिए समान आयाम छवियों का उपयोग करने की सलाह देते हैं।"
+
+#: admin/slider-panel.php:83 slider-factory.php:133
+msgid "Slide Title"
+msgstr "स्लाइड शीर्षक"
+
+#: admin/slider-panel.php:84 slider-factory.php:134
+msgid "Slide Description"
+msgstr "स्लाइड विवरण"
+
+#: admin/slider-panel.php:85 slider-factory.php:135
+msgid "Slide Image SEO Text"
+msgstr "स्लाइड छवि एसईओ पाठ"
+
+#: admin/slider-panel.php:86 slider-factory.php:136
+msgid "Remove Slide"
+msgstr "स्लाइड निकालें"
+
+#: admin/slider-panel.php:116
+msgid "Slider Setting For Layout"
+msgstr "स्लाइडर सेटिंग लेआउट के लिए"
+
+#: admin/slider-panel.php:150
+msgid "Loading..."
+msgstr "लोड हो रहा है..."
+
+#: admin/slider-panel.php:158
+msgid "Click To Copy Shortcode"
+msgstr "शोर्ट कॉपी करने के लिए क्लिक करें"
+
+#: admin/slider-panel.php:159
+msgid "Shortcode Copied"
+msgstr "शॉर्टकोड कॉपी किया गया"
+
+#: slider-factory.php:58
+msgid "Slider Factory"
+msgstr "स्लाइडर फैक्टरी"
+
+#: slider-factory.php:60
+msgid "Manage Slider"
+msgstr "स्लाइडर प्रबंधन"
+
+#~ msgid "Slider Layouts"
+#~ msgstr "स्लाइडर लेआउट"
+
+#~ msgid "Layout"
+#~ msgstr "ख़ाका"
+
+#~ msgid "Design Preset"
+#~ msgstr "डिजाइन पूर्व निर्धारित"
+
+#~ msgid "One"
+#~ msgstr "एक"
+
+#~ msgid "Two"
+#~ msgstr "दो"
+
+#~ msgid "Three"
+#~ msgstr "तीन"
+
+#~ msgid "Auto Play Speed"
+#~ msgstr "ऑटो प्ले स्पीड"
+
+#~ msgid "milliseconds"
+#~ msgstr "मिलीसेकेंड"
+
+#~ msgid "Pause On Mouse Hover"
+#~ msgstr "माउस होवर पर रोकें"
+
+#~ msgid "Infinite Scroll"
+#~ msgstr "अनंत सूची"
+
+#~ msgid "Full Screen Button"
+#~ msgstr "पूर्ण स्क्रीन बटन"
+
+#~ msgid "Fade Effect"
+#~ msgstr "फीका प्रभाव"
+
+#~ msgid "Adaptive Height"
+#~ msgstr "अनुकूली ऊँचाई"
+
+#~ msgid "Slider Thumbnail"
+#~ msgstr "स्लाइडर थम्बनेल"
+
+#~ msgid "Slider Navigation Arrow"
+#~ msgstr "स्लाइडर नेविगेशन एरो"
+
+#~ msgid "Slider Navigation Dots"
+#~ msgstr "स्लाइडर नेविगेशन डॉट्स"
+
+#~ msgid "Slide ID Shuffle"
+#~ msgstr "स्लाइड आईडी शफल"
+
+#~ msgid "Slide Title Ascending"
+#~ msgstr "स्लाइड शीर्षक आरोही"
+
+#~ msgid "Slide Title Descending"
+#~ msgstr "स्लाइड शीर्षक अवरोही"
+
+#~ msgid "Slide Align"
+#~ msgstr "स्लाइड संरेखित करें"
+
+#~ msgid "Left"
+#~ msgstr "बाएं"
+
+#~ msgid "Center"
+#~ msgstr "केंद्र"
+
+#~ msgid "Right"
+#~ msgstr "सही"
+
+#~ msgid "Right To Left (RTL Support)"
+#~ msgstr "राइट टू लेफ्ट (RTL सपोर्ट)"
+
+#~ msgid "Custom CSS"
+#~ msgstr "कस्टम सीएसएस"
+
+#~ msgid "Starting Slide Number"
+#~ msgstr "स्लाइड नंबर शुरू करना"
+
+#~ msgid "Jump Back To Slide"
+#~ msgstr "स्लाइड पर वापस जाएं"
+
+#~ msgid "Jump Back To Last Clicked Slide"
+#~ msgstr "अंतिम क्लिक स्लाइड पर वापस जाएं"
+
+#~ msgid "Four"
+#~ msgstr "चार"
+
+#~ msgid "Five"
+#~ msgstr "पांच"
+
+#~ msgid "Six"
+#~ msgstr "छह"
+
+#~ msgid "Transition Speed"
+#~ msgstr "संक्रमण की गति"
+
+#~ msgid "Gap Between Slides"
+#~ msgstr "स्लाइड्स के बीच गैप"
+
+#~ msgid "Navigation"
+#~ msgstr "नेविगेशन"
+
+#~ msgid "Upload Slide Images"
+#~ msgstr "स्लाइड चित्र अपलोड करें"
+
+#~ msgid "Slide Button 1 Text"
+#~ msgstr "स्लाइड बटन 1 पाठ"
+
+#~ msgid "Slide Button 1 URL"
+#~ msgstr "स्लाइड बटन 1 URL"
+
+#~ msgid "Slide Button 2 Text"
+#~ msgstr "स्लाइड बटन 2 पाठ"
+
+#~ msgid "Slide Button 2 URL"
+#~ msgstr "स्लाइड बटन 2 URL"
+
+#~ msgid "Flickr API Settings"
+#~ msgstr "फ़्लिकर एपीआई सेटिंग्स"
+
+#~ msgid "Flickr User ID"
+#~ msgstr "फ़्लिकर उपयोगकर्ता आईडी"
+
+#, fuzzy
+#~| msgid "How To Get Your User ID?"
+#~ msgid "How To Get Your User ID"
+#~ msgstr "अपना यूजर आईडी कैसे प्राप्त करें"
+
+#~ msgid "Flickr API Key"
+#~ msgstr "फ़्लिकर एपीआई कुंजी"
+
+#, fuzzy
+#~| msgid "How To Get Your API Key?"
+#~ msgid "How To Get Your API Key"
+#~ msgstr "अपनी एपीआई कुंजी कैसे प्राप्त करें"
+
+#~ msgid "Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी"
+
+#~ msgid "Docs"
+#~ msgstr "दस्तावेज़"
+
+#~ msgid "Parent Item:"
+#~ msgstr "अभिभावक आइटम:"
+
+#~ msgid "All Flickr Gallery"
+#~ msgstr "सभी फ़्लिकर गैलरी"
+
+#~ msgid "Add Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी जोड़ें"
+
+#~ msgid "Search Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी खोजें"
+
+#~ msgid "Flickr Gallery Not found"
+#~ msgstr "फ़्लिकर गैलरी नहीं मिली"
+
+#~ msgid "Flickr Gallery Not found in Trash"
+#~ msgstr "फ्लिकर गैलरी ट्रैश में नहीं मिली"
+
+#~ msgid "Custom Post Type For Flickr Gallery"
+#~ msgstr "फ़्लिकर गैलरी के लिए कस्टम पोस्ट प्रकार"
+
+#~ msgid "Flickr Settings"
+#~ msgstr "फ़्लिकर सेटिंग्स"
+
+#~ msgid ""
+#~ "Copy & Embed shotcode into any Page/ Post / Text Widget to display your "
+#~ "flickr gallery on your site."
+#~ msgstr ""
+#~ "अपनी साइट पर अपनी फ़्लिकर गैलरी प्रदर्शित करने के लिए किसी भी पेज / पोस्ट / टेक्स्ट "
+#~ "विजेट में कॉपीकोड एम्बेड करें और एम्बेड करें।"
+
+#~ msgid "Flickr Gallery Settings"
+#~ msgstr "फ़्लिकर गैलरी सेटिंग्स"
+
+#, fuzzy
+#~| msgid "Show / Hide gallery post title."
+#~ msgid "Show / Hide Your Flickr Profile"
+#~ msgstr "गैलरी पोस्ट शीर्षक दिखाएँ / छुपाएं।"
+
+#, fuzzy
+#~| msgid "A. Gallery Title Color"
+#~ msgid "I. Profile Title Color"
+#~ msgstr "अ. गैलरी शीर्षक रंग"
+
+#, fuzzy
+#~| msgid "Select the color of the gallery post title."
+#~ msgid "Select the profile title color."
+#~ msgstr "गैलरी पोस्ट शीर्षक का रंग चुनें।"
+
+#, fuzzy
+#~| msgid "B. Gallery Title Font Size"
+#~ msgid "II. Title Font Size"
+#~ msgstr "ब. गैलरी शीर्षक फ़ॉन्ट आकार"
+
+#, fuzzy
+#~| msgid "Set the gallery post title font size"
+#~ msgid "Set the profile title font size"
+#~ msgstr "गैलरी पोस्ट शीर्षक फ़ॉन्ट आकार सेट करें"
+
+#, fuzzy
+#~| msgid "Flickr Gallery Type"
+#~ msgid "2. Flickr Gallery Type"
+#~ msgstr "फ़्लिकर गैलरी प्रकार"
+
+#~ msgid "Photostream"
+#~ msgstr "फोटो धारा"
+
+#~ msgid "Album"
+#~ msgstr "एल्बम"
+
+#, fuzzy
+#~| msgid "I. All Flickr Albums"
+#~ msgid "I. All My Flickr Albums"
+#~ msgstr "I. सभी फ़्लिकर एल्बम"
+
+#~ msgid "Select an album gallery to display into gallery."
+#~ msgstr "गैलरी में प्रदर्शित करने के लिए एक एल्बम गैलरी का चयन करें।"
+
+#, fuzzy
+#~| msgid "Gallery Title"
+#~ msgid "I. Gallery Title"
+#~ msgstr "गैलरी शीर्षक"
+
+#~ msgid "Show"
+#~ msgstr "प्रदर्शन"
+
+#~ msgid "Hide"
+#~ msgstr "छिपाना"
+
+#~ msgid "Show / Hide gallery post title."
+#~ msgstr "गैलरी पोस्ट शीर्षक दिखाएँ / छुपाएं।"
+
+#~ msgid "A. Gallery Title Color"
+#~ msgstr "अ. गैलरी शीर्षक रंग"
+
+#~ msgid "Select the color of the gallery post title."
+#~ msgstr "गैलरी पोस्ट शीर्षक का रंग चुनें।"
+
+#~ msgid "B. Gallery Title Font Size"
+#~ msgstr "ब. गैलरी शीर्षक फ़ॉन्ट आकार"
+
+#~ msgid "Set the gallery post title font size"
+#~ msgstr "गैलरी पोस्ट शीर्षक फ़ॉन्ट आकार सेट करें"
+
+#~ msgid "C. Gallery Title Text Alignment"
+#~ msgstr "स. गैलरी शीर्षक पाठ संरेखण"
+
+#~ msgid "Set alignment of gallery post title."
+#~ msgstr "गैलरी पोस्ट शीर्षक के संरेखण सेट करें।"
+
+#, fuzzy
+#~| msgid "Colums On Desktops"
+#~ msgid "II. Colums On Large Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम"
+
+#, fuzzy
+#~| msgid "Sets the columns on the Desktops"
+#~ msgid "Sets the columns on the Large Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#, fuzzy
+#~| msgid "Colums On Desktops"
+#~ msgid "III. Colums On Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम"
+
+#~ msgid "Sets the columns on the Desktops"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#, fuzzy
+#~| msgid "Colums On Desktops"
+#~ msgid "IV. Colums On Tablets"
+#~ msgstr "डेस्कटॉप पर कॉलम"
+
+#, fuzzy
+#~| msgid "Sets the columns on the Desktops"
+#~ msgid "Sets the columns on the Tablets"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#, fuzzy
+#~| msgid "Colums On Desktops"
+#~ msgid "V. Colums On Phones"
+#~ msgstr "डेस्कटॉप पर कॉलम"
+
+#, fuzzy
+#~| msgid "Sets the columns on the Desktops"
+#~ msgid "Sets the columns on the Phones"
+#~ msgstr "डेस्कटॉप पर कॉलम सेट करता है"
+
+#, fuzzy
+#~| msgid "Image Size"
+#~ msgid "VI. Image Size"
+#~ msgstr "छवि का आकार"
+
+#~ msgid "A. Thumbnail Image Size"
+#~ msgstr "अ. थंबनेल छवि का आकार"
+
+#~ msgid "Set thumbnail image size for gallery output"
+#~ msgstr "गैलरी आउटपुट के लिए थंबनेल छवि आकार सेट करें"
+
+#~ msgid "B. Lightbox Preview Image Size"
+#~ msgstr "ब. लाइटबॉक्स पूर्वावलोकन छवि का आकार"
+
+#~ msgid "Set lightbox image preview size when click on thumbnail"
+#~ msgstr "थंबनेल पर क्लिक करते समय लाइटबॉक्स छवि पूर्वावलोकन आकार सेट करें"
+
+#, fuzzy
+#~| msgid "Set thumbnail image size for gallery output"
+#~ msgid "Set a image order for flickr gallery"
+#~ msgstr "गैलरी आउटपुट के लिए थंबनेल छवि आकार सेट करें"
+
+#, fuzzy
+#~| msgid "Light Image Gallery"
+#~ msgid "4. Light Image Gallery"
+#~ msgstr "लाइट इमेज गैलरी"
+
+#~ msgid "Enable"
+#~ msgstr "सक्षम करें"
+
+#~ msgid "Disable"
+#~ msgstr "अक्षम"
+
+#, fuzzy
+#~| msgid "Show / Hide gallery post title."
+#~ msgid "Show / Hide light gallery image light box."
+#~ msgstr "गैलरी पोस्ट शीर्षक दिखाएँ / छुपाएं।"
+
+#, fuzzy
+#~| msgid "Light Image Gallery"
+#~ msgid "Light Gallery"
+#~ msgstr "लाइट इमेज गैलरी"
+
+#, fuzzy
+#~| msgid "Flickr Gallery"
+#~ msgid "Fixed Gallery"
+#~ msgstr "फ़्लिकर गैलरी"
+
+#, fuzzy
+#~| msgid "A. Gallery Title Color"
+#~ msgid "B. Title Color"
+#~ msgstr "अ. गैलरी शीर्षक रंग"
+
+#, fuzzy
+#~| msgid "B. Gallery Title Font Size"
+#~ msgid "C. Title Font Size"
+#~ msgstr "ब. गैलरी शीर्षक फ़ॉन्ट आकार"
+
+#, fuzzy
+#~| msgid "B. Gallery Title Font Size"
+#~ msgid "IV. Pagination Font Size"
+#~ msgstr "ब. गैलरी शीर्षक फ़ॉन्ट आकार"
+
+#, fuzzy
+#~| msgid "Set the gallery post title font size"
+#~ msgid "Set the pagination text font size"
+#~ msgstr "गैलरी पोस्ट शीर्षक फ़ॉन्ट आकार सेट करें"
+
+#~ msgid "%s rating"
+#~ msgstr "%s रेटिंग"
+
+#~ msgid "Get More Free WordPress Plugin From A WP Life"
+#~ msgstr "ए ड़बल्युपी लाइफ से अधिक मुफ्त वर्डप्रेस प्लगइन प्राप्त करें"
+
+#~ msgid "More Details"
+#~ msgstr "अधिक जानकारी"
+
+#~ msgid "Install Now"
+#~ msgstr "अभी स्थापित करें"
+
+#~ msgid "Update Now"
+#~ msgstr "अभी अद्यतन करें"
+
+#~ msgid "By "
+#~ msgstr "द्वारा"
+
+#~ msgid "Last Updated:"
+#~ msgstr "आखरी अपडेट:"
+
+#~ msgid "Buy Premium Plugin"
+#~ msgstr "प्रीमियम प्लगइन खरीदें"
+
+#~ msgid "Featured Plugin"
+#~ msgstr "फीचर्ड प्लगइन"
+
+#~ msgid "Our Theme"
+#~ msgstr "हमारी थीम"
+
+#~ msgid "Upgrade Flickr Gallery Pro"
+#~ msgstr "फ़्लिकर गैलरी प्रो अपग्रेड करें"
+
+#~ msgid "Rate Our Plugin"
+#~ msgstr "हमारे प्लगइन को रेट करें"
+
+#~ msgid "First set your Flickr User ID and API Key on"
+#~ msgstr "पहले अपनी फ़्लिकर उपयोगकर्ता आईडी और एपीआई कुंजी सेट करें"
+
+#~ msgid "Page."
+#~ msgstr "पृष्ठ"
+
+#~ msgid "3 Column Layout"
+#~ msgstr "3 कॉलम लेआउट"
+
+#~ msgid "4 Column Layout"
+#~ msgstr "4 कॉलम लेआउट"
+
+#~ msgid "Square - 75x75"
+#~ msgstr "वर्ग - 75x75"
+
+#~ msgid "Large Square - 150x150"
+#~ msgstr "बड़ा वर्ग - 150x150"
+
+#~ msgid "Thumbnail - 100x75"
+#~ msgstr "थंबनेल - 100x75"
+
+#~ msgid "Small - 240x180"
+#~ msgstr "छोटा - 240x180"
+
+#~ msgid "Medium - 500x375"
+#~ msgstr "मध्यम - 500x375"
+
+#~ msgid "Large - 1024x768"
+#~ msgstr "बड़ा - 1024x768"
+
+#~ msgid "Light Box Preview"
+#~ msgstr "ब. लाइटबॉक्स पूर्वावलोकन छवि का आकार"
+
+#~ msgid ""
+#~ "Enable / Disable light gallery image light box for larger image preview."
+#~ msgstr "लाइट गैलरी छवि लाइट बॉक्स दिखाएँ / छुपाएं।"

@@ -1,0 +1,302 @@
+/*
+Theme Name: CloudPress
+Author URI: https://spicethemes.com/
+Theme URI: https://spicethemes.com/
+Author: SpiceThemes 
+Created by: SpiceThemes
+Copyright (c) 2019 CloudPress
+Date: 27 Nov 2019
+http://www.spicethemes.com
+Name: default.css
+*/
+
+/*--------------------------------------------------------------
+  Common
+--------------------------------------------------------------*/
+.header-sidebar {
+    background-color: #ce1b28;
+}
+.search-form input[type="submit"] {
+    background: #ce1b28 none repeat scroll 0 0;
+    border: 1px solid #ce1b28;
+}
+.woocommerce ul.products li.product .onsale, .products span.onsale, .woocommerce span.onsale {
+    background: #ce1b28;
+}
+.woocommerce ul.products li.product .onsale, .products span.onsale {
+    background: #ce1b28;
+    border: 2px solid #ce1b28;
+}
+.woocommerce-loop-product__title:hover {
+    color: #ce1b28;
+}
+.woocommerce ul.products li.product .button, .owl-item .item .cart .add_to_cart_button {
+    background: #ce1b28;
+}
+.woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, .woocommerce nav.woocommerce-pagination ul li span.current {
+    background-color: #ce1b28 !important;
+}
+.woocommerce ul.products li.product .onsale, .woocommerce span.onsale {
+    background: #ce1b28;
+}
+button, input[type="button"], input[type="submit"] {
+    background-color: #ce1b28 !important;
+}
+.checkout-button.button.alt.wc-forward
+{
+  background-color: #ce1b28 !important;
+}
+.navbar-custom .nav > li > a:focus,
+.navbar-custom .nav > li > a:hover,
+.navbar-custom .nav .open > a,
+.navbar-custom .nav .open > a:focus,
+.navbar-custom .nav .open > a:hover,
+.navbar-custom .dropdown-menu > li > a:focus,
+.navbar-custom .dropdown-menu > li > a:hover,
+.dropdown-menu>.active> li>a:focus, 
+.dropdown-menu>.active> li>a:hover, 
+.navbar-custom .nav .dropdown-menu>.active>a{
+  color: #ce1b28;
+}
+.btn-default:focus{background: #ce1b28;}
+/*.search-box-outer .dropdown-menu {
+    border-top: solid 1px #ce1b28;
+}*/
+.btn-animate.slidbtn.btn-small.btn-light {
+    background: #ce1b28;
+}
+.slider-caption .btn-combo .btn-default:hover {
+    background-color: #ce1b28;
+    border: unset;
+}
+.btn-animate.border:before, .btn-animate.border:after {
+    background: #ce1b28;
+}
+.owl-carousel .owl-prev:hover, .owl-carousel .owl-prev:focus {
+    background-color: #ce1b28;
+}
+.owl-carousel .owl-next:hover, .owl-carousel .owl-next:focus {
+    background-color: #ce1b28;
+}
+.call-to-action, .call-to-action-one {
+    background-color: #ce1b28;
+}
+.services .post-thumbnail a {
+    color: #ce1b28;
+}
+.services .post:before {
+    border-bottom-color: #ce1b28;
+}
+.text-default {
+    color: #ce1b28;
+}
+.btn-animate.border {
+    border: 2px solid #ce1b28  !important;
+}
+.portfolio-filters li.active a:before, .portfolio-filters li a:before {
+    background-color: #ce1b28;
+}
+.portfolio .post {
+    background-color: #ce1b28;
+}
+.bg-default {
+    background-color: #ce1b28;
+}
+.products .onsale {
+    background: #ce1b28;
+    border: 2px solid #ce1b28;
+}
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: #ce1b28;
+}
+.team-grid .social-links li a:hover, 
+.team-grid .social-links li a:focus {
+  color: #ce1b28;
+}
+.pricing-title-bg.default {
+    background-color: #ce1b28;
+}
+.pricing-plans .price {
+    color: #ce1b28;
+}
+.btn-bg-default {
+    background: #ce1b28 !important;
+}
+.entry-meta .cat-links a, .entry-meta .tag-links a {
+    color: #ce1b28 !important;
+}
+.site-info {
+    background-color: #ce1b28;
+}
+.scroll-up a:hover, .scroll-up a:focus {
+    background: #ce1b28;
+}
+.cart-header > a .cart-total {
+    /*background: #ce1b28;*/
+    color: #fff;
+   /* position: absolute;
+    top: 5px;*/
+}
+.woocommerce p.stars a {
+    color: #ce1b28;
+}
+.woocommerce .star-rating::before {
+    color: #ce1b28;
+}
+.woocommerce .star-rating span::before {
+    color: #ce1b28;
+}
+.woocommerce-message, .woocommerce-info {
+    border-top-color: #ce1b28;
+}
+.woocommerce-message::before, .woocommerce-info::before {
+    color: #ce1b28;
+}
+body .woocommerce #respond input#submit, body .woocommerce a.button, body .woocommerce button.button, body .woocommerce input.button {
+    background-color: #ce1b28 ;
+    color: #fff !important;
+    line-height: 1.4
+}
+.page-breadcrumb.text-center span a:hover {
+    color: #ce1b28;
+}
+.page-breadcrumb.text-center .breadcrumb_last {
+    color: #ce1b28 !important;
+}
+.widget a:hover, .widget a:focus, .widget .post .entry-title a:hover, .widget .post .entry-title a:focus, .sidebar .entry-meta .cat-links a:hover, .sidebar .entry-meta .cat-links a:focus, .sidebar .entry-meta .tag-links a:hover, .sidebar .entry-meta .tag-links a:focus {
+    color: #ce1b28 !important;
+}
+.entry-meta a:hover, .entry-meta a:focus, .item-meta a:hover, .item-meta a:focus {
+    color: #ce1b28 !important;
+}
+.btn-default, .btn-animate.light, .btn-animate.dark {
+    background: #ce1b28;
+}
+.pagination a:hover, .pagination a.active { background-color: #ce1b28 !important; color: #fff !important;  }
+.entry-header .entry-title a:hover {
+    color: #ce1b28;
+}
+
+/*404 page*/
+.error-404 h1 > i {
+    color: #ce1b28; 
+}
+
+/*comments*/
+.reply a {
+    background-color: #ce1b28;
+    border: 1px solid #ce1b28;
+}
+
+.navbar-custom .open .nav li.active a, .navbar-custom .open .nav li.active a:hover, .navbar-custom .open .nav li.active a:focus, .navbar-custom .open .nav li a:hover {
+    color: #ce1b28;
+}
+.navbar .nav .nav-item:hover .nav-link, .navbar .nav .nav-item.active .nav-link {
+    color: #ce1b28;
+}
+.navbar .search-box-outer .dropdown-menu
+{
+  border-top: solid 1px #ce1b28;  
+}
+
+/*contact template*/
+.contact .subtitle {
+    color: #ce1b28;
+}
+
+.contact-form {
+    border-top: 4px solid #ce1b28;
+}
+
+.contact-icon {
+    background-color: #ce1b28;
+}
+.testimonial .testmonial-block .name a:hover
+{
+    color: #ce1b28;
+}
+blockquote {
+    border-left: 3px solid #ce1b28;
+}
+.portfolio-filters .nav-item .active, .portfolio-filters .nav-item.active a
+{
+    color: #ce1b28;
+}
+.dropdown-item.active, .dropdown-item:active
+{
+    background-color: #ce1b28 !important;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range
+{
+    background-color: #ce1b28 !important;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle
+{
+    background-color: #ce1b28 !important;
+}
+.dropdown-item:hover
+{
+    background-color: #ce1b28;
+   color: #fff;
+}
+
+#shop #shop-carousel .product-price a:hover
+{
+    color: #ce1b28;
+}
+
+.site-footer .footer-sidebar .entry-meta .cat-links a, .site-footer .footer-sidebar .entry-meta .tag-links a {
+    color: #ce1b28 !important;
+}
+.navbar a.bg-light:hover,.dropdown-item:hover
+{
+    background-color: transparent !important;
+    color:#ce1b28 !important;
+}
+.services2 .post::before {background-color: #ce1b28;}
+.services2 .post-thumbnail i.fa {color: #ce1b28;}
+.navbar6.navbar ul li > a:hover:after {
+     background:#ce1b28; 
+}
+.woocommerce span.onsale {
+    background-color: #ce1b28 !important;
+}
+.woocommerce-message {
+    border-top-color: #ce1b28 !important;
+}
+.woocommerce-message::before {
+    color: #ce1b28 !important;
+}
+.entry-content a:hover, .entry-content a:focus {
+    color: #ce1b28;
+}
+.navbar6.navbar .navbar-nav > li.active > a:after, 
+.navbar6.navbar ul li > a:hover:after {
+    background:#ce1b28; 
+}
+.pagination a:hover, .pagination a.active, .page-numbers.current {
+    background-color: #ce1b28 !important;
+}
+.row.section-module.Blogs-detail .blog .post .entry-content a:hover {
+    color: #ce1b28;
+}
+.index6 .custom-logo-link-url .site-title a:hover {color: #ce1b28;}
+.page-content .entry-content a:hover, 
+.page-content .entry-content a:focus, 
+.entry-content a:focus {
+    color: #ce1b28;
+}
+.cart-header > a .cart-total {
+    background: #ce1b28;
+}
+body .woocommerce #respond .form-submit input[type="submit"], 
+body .woocommerce a.button, 
+body .woocommerce button.button, 
+body .woocommerce input.button {
+    background-color: #ce1b28 !important;
+    color: #fff !important;
+    line-height: 1.4
+}
+.header-sidebar {
+    background-color: #ce1b28 ;
+}

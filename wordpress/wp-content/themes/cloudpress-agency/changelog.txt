@@ -1,0 +1,9 @@
+== Changelog ==
+
+= 0.3 =
+* Added the top header widget feature.
+* Screenshot updated.
+= 0.2 =
+* Fixed few strings.
+= 0.1 =
+* Initial release

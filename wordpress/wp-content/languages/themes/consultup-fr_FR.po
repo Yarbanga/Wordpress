@@ -1,0 +1,425 @@
+# Translation of Themes - Consultup in French (France)
+# This file is distributed under the same license as the Themes - Consultup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-01 15:14:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Consultup\n"
+
+#. Description of the theme
+msgid "Consultup WordPress theme ideal for a business or perfect solutions for corporate, consulting, wedding planners, agency, law firms, finance, law travel, recipes, sport/medical shops, startups, online agencies, portfolios, freelancers, E-commerce.  The theme is responsive, WPML, Retina ready, SEO friendly(Live preview : https://demo.themeansar.com/consultup/)"
+msgstr "Le thème WordPress Consultup est idéal pour toute entreprise ou parfait pour une solution professionnelle tant en consulting, organisation de mariages, agence, services juridique et financier, recettes de cuisine, magasin sportif ou médical, startups, portfolios, autoentreprises, agences web, e-commerce... Le thème est responsive., compatible WPML, retina et SEO. (Voir la démo : https://demo.themeansar.com/consultup/)"
+
+#. Theme Name of the theme
+#: lib/theme-option/view-general.php:13
+msgid "Consultup"
+msgstr "Consultup"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Recherche"
+
+#: 404.php:29
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Nous sommes désolés, mais la page que vous recherchez n’existe pas."
+
+#: functions.php:174
+msgid "Sidebar Widget Area"
+msgstr "Widget de colonne latérale"
+
+#: inc/icy/customize/consultup_customize_copyright.php:180
+msgid "Background Image"
+msgstr "Image d’arrière-plan"
+
+#: inc/icy/customize/consultup_customize_header.php:321
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: inc/icy/customize/consultup_customize_header.php:257
+#: inc/icy/customize/consultup_customize_header.php:301
+msgid "Description"
+msgstr "Description"
+
+#: inc/icy/customize/consultup_customize_header.php:245
+#: inc/icy/customize/consultup_customize_header.php:289
+msgid "Title"
+msgstr "Titre"
+
+#: inc/icy/customize/consultup_customize_header.php:81
+#: inc/icy/customize/consultup_customize_copyright.php:28
+msgid "Hide / Show"
+msgstr "Masquer/Afficher"
+
+#: inc/icy/customize/consultup_customize_header.php:34
+#: inc/icy/customize/consultup_customize_header.php:57
+msgid "Text"
+msgstr "Texte"
+
+#: inc/icy/customize/consultup_customize_header.php:23
+#: inc/icy/customize/consultup_customize_header.php:46
+#: inc/icy/customize/consultup_customize_header.php:233
+#: inc/icy/customize/consultup_customize_header.php:277
+msgid "Icon"
+msgstr "Icône"
+
+#: search.php:27
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères de recherche. Veuillez réessayer avec d’autres mots-clefs."
+
+#: search.php:25
+msgid "Nothing Found"
+msgstr "Aucun résultat"
+
+#. Template Name of the theme
+msgid "Homepage"
+msgstr "Page d'accueil "
+
+#. translators: %s: search term
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: content.php:53
+msgid "Pages:"
+msgstr "Pages :"
+
+#: content.php:52
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: content.php:48
+msgid "by"
+msgstr "par"
+
+#: functions.php:184
+msgid "Footer Widget Area"
+msgstr "Zone de widgets en pied de page"
+
+#: functions.php:66
+msgid "Social Links Menu"
+msgstr "Menu des liens de réseaux sociaux"
+
+#: functions.php:65
+msgid "Primary menu"
+msgstr "Menu principal"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Page pleine largeur"
+
+#: lib/theme-option/class-consultup-admin-settings.php:501
+msgid "Easy to use, Fully Customizable, Unique options"
+msgstr "Facile à utiliser, entièrement personnalisable, options uniques"
+
+#: lib/theme-option/class-consultup-admin-settings.php:447
+msgid "Premium Support"
+msgstr "Support premium"
+
+#: lib/theme-option/class-consultup-admin-settings.php:445
+msgid "Your Feedback"
+msgstr "Vos retours"
+
+#: lib/theme-option/class-consultup-admin-settings.php:443
+msgid "Pro Demo"
+msgstr "Démo Pro"
+
+#: lib/theme-option/class-consultup-admin-settings.php:441
+msgid "Lite Demo"
+msgstr "Démo Lite"
+
+#: lib/theme-option/class-consultup-admin-settings.php:437
+msgid "Consultup Usefull Links"
+msgstr "Liens utiles Consultup"
+
+#: lib/theme-option/class-consultup-admin-settings.php:418
+msgid "Visit to Customizer Settings:"
+msgstr "Réglages de l&nbsp;outil de personnalisation"
+
+#: lib/theme-option/class-consultup-admin-settings.php:410
+msgid "Site Button"
+msgstr "Bouton du site"
+
+#: lib/theme-option/class-consultup-admin-settings.php:404
+msgid "Social Icon"
+msgstr "Icône de réseaux sociaux"
+
+#: lib/theme-option/class-consultup-admin-settings.php:398
+msgid "Sidebar Options"
+msgstr "Options de colonne latérale"
+
+#: lib/theme-option/class-consultup-admin-settings.php:392
+msgid "Set Colors"
+msgstr "Définir les couleurs"
+
+#: lib/theme-option/class-consultup-admin-settings.php:387
+msgid "Upload Logo"
+msgstr "Téléverser un logo"
+
+#: lib/theme-option/class-consultup-admin-settings.php:378
+#: lib/theme-option/class-consultup-admin-settings.php:455
+msgid "Get More Options with Consultup Pro!"
+msgstr "Obtenez plus d’options avec Consultup Pro !"
+
+#: lib/theme-option/class-consultup-admin-settings.php:364
+msgid "Submit Ticket"
+msgstr "Envoyer un ticket"
+
+#: lib/theme-option/class-consultup-admin-settings.php:361
+msgid "We start with what the customer needs and we work backwards. You're absolutely free to contact us and consultup team will be happy to help you."
+msgstr "Nous commençons par ce dont le client a besoin et nous travaillons à rebours. Vous êtes absolument libre de nous contacter et l’équipe de consultup sera heureuse de vous aider."
+
+#: lib/theme-option/class-consultup-admin-settings.php:355
+msgid "Customer Support"
+msgstr "Support client"
+
+#: lib/theme-option/class-consultup-admin-settings.php:338
+msgid "Visit Us"
+msgstr "Nous rendre visite"
+
+#: lib/theme-option/class-consultup-admin-settings.php:336
+msgid "Want to know how it works, take a look on this and get whole knowledge about consultup. Learn consultup"
+msgstr "Vous voulez savoir comment cela fonctionne ? Jetez un coup d’œil et obtenez des informations complètes sur Consultup. Apprenez à utiliser Consultup"
+
+#: lib/theme-option/class-consultup-admin-settings.php:332
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: lib/theme-option/class-consultup-admin-settings.php:315
+msgid "Go to Cutomizer Panel"
+msgstr "Aller dans le panneau de personnalisation"
+
+#: lib/theme-option/class-consultup-admin-settings.php:311
+msgid "Click the below button and install ICYCLUB plugin in customizer Setting for full advatages frontpage and many other theme feature"
+msgstr "Clicque sur le bouton ci-dessous et installe l&nbsp:extension ICYCLUB pour obtenir tous les avantages du site et d&nbsp;autres fonctionnalités"
+
+#: lib/theme-option/class-consultup-admin-settings.php:304
+msgid "Install Plugin"
+msgstr "Installer l'extension"
+
+#: lib/theme-option/class-consultup-admin-settings.php:183
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: lib/theme-option/class-consultup-admin-settings.php:156
+msgid "consultup"
+msgstr "consultup"
+
+#: lib/theme-option/class-consultup-admin-settings.php:155
+msgid "Consultup Options"
+msgstr "Options de Consultup"
+
+#. translators: %s theme name
+#: lib/theme-option/class-consultup-admin-settings.php:48
+msgid "Get started with %s"
+msgstr "Démarrer avec  %s"
+
+#. translators: %1$s: theme name, %2$s theme version
+#: lib/theme-option/class-consultup-admin-settings.php:34
+msgid "Thanks For Choosing %1$s - Version %2$s"
+msgstr "Merci d’avoir choisi %1$s - Version %2$s"
+
+#: inc/icy/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Passez pro"
+
+#: inc/icy/customize-pro/class-customize.php:64
+msgid "Consultup Pro Available!"
+msgstr "Consultup Pro est disponible !"
+
+#: inc/icy/customizer-notify/consultup-customizer-notify.php:111
+msgid "Activating"
+msgstr "Activation"
+
+#: inc/icy/customize/plugin_recommend.php:17
+msgid "Deactivate"
+msgstr "Désactiver"
+
+#: inc/icy/customize/plugin_recommend.php:16
+msgid "Activate"
+msgstr "Activer"
+
+#: inc/icy/customize/plugin_recommend.php:15
+msgid "Install and Activate"
+msgstr "Installer et activer"
+
+#: inc/icy/customize/plugin_recommend.php:14
+msgid "Recommended Plugin"
+msgstr "Extension recommandée"
+
+#: inc/icy/customize/plugin_recommend.php:13
+msgid "Recommended Actions"
+msgstr "Actions recommandées"
+
+#: inc/icy/customize/consultup_customize_home.php:8
+msgid "Homepage section settings"
+msgstr "Réglages de section de page d’accueil"
+
+#: inc/icy/customize/consultup_customize_copyright.php:209
+msgid "Footer social icon"
+msgstr "Icône sociale pour pied de page"
+
+#: inc/icy/customize/consultup_customize_copyright.php:203
+msgid "Select Column Layout"
+msgstr "Sélectionner la mise en page de la colonne"
+
+#: inc/icy/customize/consultup_customize_copyright.php:187
+msgid "Footer widget column layout"
+msgstr "Présentation de colonne pour widget de pied de page"
+
+#: inc/icy/customize/consultup_customize_copyright.php:166
+msgid "Footer background setting"
+msgstr "Paramétrage de l&rsquo;arrière-plan du pied de page"
+
+#: inc/icy/customize/consultup_customize_copyright.php:10
+msgid "Footer social icon settings"
+msgstr "Paramètres de l&rsquo;icone sociale de pied de page"
+
+#: inc/icy/customize/consultup_customize_copyright.php:6
+msgid "Footer Settings"
+msgstr "Réglages pied de page"
+
+#: inc/icy/customize/consultup_customize_header.php:333
+msgid "Button Link"
+msgstr "Lien du bouton"
+
+#: inc/icy/customize/consultup_customize_header.php:308
+msgid "Header Widget Three Setting"
+msgstr "Installation en trois étapes du widget d&rsquo;en-tête"
+
+#: inc/icy/customize/consultup_customize_header.php:265
+msgid "Header Widget Two Setting"
+msgstr "Installation en deux étapes du widget d&rsquo;en-tête"
+
+#: inc/icy/customize/consultup_customize_header.php:221
+msgid "Header Widget One Setting"
+msgstr "Installation en une étape du widget d&rsquo;en-tête"
+
+#: inc/icy/customize/consultup_customize_header.php:199
+#: inc/icy/customize/consultup_customize_copyright.php:143
+msgid "Instagram URL"
+msgstr "URL Instagram"
+
+#: inc/icy/customize/consultup_customize_header.php:166
+#: inc/icy/customize/consultup_customize_copyright.php:110
+msgid "Linkedin URL"
+msgstr "URL LinkedIn"
+
+#: inc/icy/customize/consultup_customize_header.php:134
+#: inc/icy/customize/consultup_customize_copyright.php:78
+msgid "Twitter URL"
+msgstr "URL Twitter"
+
+#: inc/icy/customize/consultup_customize_header.php:117
+#: inc/icy/customize/consultup_customize_header.php:150
+#: inc/icy/customize/consultup_customize_header.php:182
+#: inc/icy/customize/consultup_customize_header.php:215
+#: inc/icy/customize/consultup_customize_header.php:346
+#: inc/icy/customize/consultup_customize_copyright.php:61
+#: inc/icy/customize/consultup_customize_copyright.php:94
+#: inc/icy/customize/consultup_customize_copyright.php:126
+#: inc/icy/customize/consultup_customize_copyright.php:159
+msgid "Open link in a new tab"
+msgstr "Ouvrir le lien dans un nouvel onglet"
+
+#: inc/icy/customize/consultup_customize_header.php:101
+#: inc/icy/customize/consultup_customize_copyright.php:45
+msgid "Facebook URL"
+msgstr "URL Facebook"
+
+#: inc/icy/customize/consultup_customize_header.php:63
+msgid "Header Social Icon Settings"
+msgstr "Paramètres de l&rsquo;icône sociale d&rsquo;en-tête"
+
+#: inc/icy/customize/consultup_customize_header.php:12
+msgid "Header Top Bar Setting"
+msgstr "Configuration de la barre supérieure de l&rsquo;en tête"
+
+#: inc/icy/customize/consultup_customize_header.php:8
+msgid "Header Settings"
+msgstr "Réglages de l'en-tête"
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "Theme: %1$s by %2$s."
+msgstr "Thème : %1$s par %2$s."
+
+#. translators: placeholder replaced with string
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "Fièrement propulsé par %s"
+
+#: footer.php:36
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: 404.php:30
+msgid "Go Back"
+msgstr "Retourner"
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr "Aïe ! Page non trouvée"
+
+#: 404.php:27
+msgid "4"
+msgstr "4"
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#: single.php:69
+msgid "By"
+msgstr "Par"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:60 comments.php:81
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:59 comments.php:80
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:56 comments.php:77
+msgid "Comment navigation"
+msgstr "Navigation dans les commentaires"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s réflexion sur « %2$s »"
+msgstr[1] "%1$s réflexion au sujet de &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post title
+#: comments.php:33
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Une r&eacute;flexion sur &ldquo;%s&rdquo;"
+
+#. Author URI of the theme
+msgid "https://themeansar.com"
+msgstr "https://themeansar.com"
+
+#. Author of the theme
+msgid "themeansar"
+msgstr "themeansar"
+
+#. Theme URI of the theme
+msgid "https://themeansar.com/themes/consultup/"
+msgstr "https://themeansar.com/themes/consultup/"
